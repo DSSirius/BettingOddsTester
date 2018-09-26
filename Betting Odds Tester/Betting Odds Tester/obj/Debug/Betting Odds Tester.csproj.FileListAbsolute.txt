@@ -1,0 +1,14 @@
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.csprojAssemblyReference.cache
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.csproj.CoreCompileInputs.cache
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds Tester\bin\Debug\Betting Odds Tester.exe.config
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds Tester\bin\Debug\Betting Odds Tester.exe
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds Tester\bin\Debug\Betting Odds Tester.pdb
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.exe
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.pdb
+C:\Users\patrickk\Documents\Betting Odds Tester\Betting Odds Tester\bin\Debug\Betting Odds Tester.exe.config
+C:\Users\patrickk\Documents\Betting Odds Tester\Betting Odds Tester\bin\Debug\Betting Odds Tester.exe
+C:\Users\patrickk\Documents\Betting Odds Tester\Betting Odds Tester\bin\Debug\Betting Odds Tester.pdb
+C:\Users\patrickk\Documents\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.csprojAssemblyReference.cache
+C:\Users\patrickk\Documents\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.csproj.CoreCompileInputs.cache
+C:\Users\patrickk\Documents\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.exe
+C:\Users\patrickk\Documents\Betting Odds Tester\Betting Odds Tester\obj\Debug\Betting Odds Tester.pdb

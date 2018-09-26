@@ -1,0 +1,17 @@
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Betting Odds TesterTests.dll
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Betting Odds TesterTests.pdb
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Betting Odds Tester.exe
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Betting Odds Tester.pdb
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Betting Odds Tester.exe.config
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\obj\Debug\Betting Odds TesterTests.csprojAssemblyReference.cache
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\obj\Debug\Betting Odds TesterTests.csproj.CoreCompileInputs.cache
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\obj\Debug\Betting Odds TesterTests.csproj.CopyComplete
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\obj\Debug\Betting Odds TesterTests.dll
+C:\Users\dssir\source\repos\Betting Odds Tester\Betting Odds TesterTests\obj\Debug\Betting Odds TesterTests.pdb

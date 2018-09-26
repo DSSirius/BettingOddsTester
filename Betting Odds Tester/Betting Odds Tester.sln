@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betting Odds Tester", "Betting Odds Tester\Betting Odds Tester.csproj", "{3BF173BA-3213-4760-9A6E-32B6436BE823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betting Odds TesterTests", "Betting Odds TesterTests\Betting Odds TesterTests.csproj", "{B24CF444-DF55-42F9-A94F-D24919FB0526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF173BA-3213-4760-9A6E-32B6436BE823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF173BA-3213-4760-9A6E-32B6436BE823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF173BA-3213-4760-9A6E-32B6436BE823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF173BA-3213-4760-9A6E-32B6436BE823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24CF444-DF55-42F9-A94F-D24919FB0526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24CF444-DF55-42F9-A94F-D24919FB0526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24CF444-DF55-42F9-A94F-D24919FB0526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24CF444-DF55-42F9-A94F-D24919FB0526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9DFC6D2-1AAD-4B7F-9937-4A0D15CC908A}
+	EndGlobalSection
+EndGlobal
